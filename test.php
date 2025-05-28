@@ -1,0 +1,1 @@
+mail('burakekmen722134@gmail.com', 'Konu', 'Mesaj İçeriği');
